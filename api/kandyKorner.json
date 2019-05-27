@@ -1,0 +1,91 @@
+{
+    "storeLocations": [
+        {
+            "id": 1,
+            "name": "candy land",
+            "location": "300 candy lane"
+        },
+        {
+            "id": 2,
+            "name": "candy land 2",
+            "location": "100 candy lane"
+        },
+        {
+            "id": 3,
+            "name": "candy land 3",
+            "location": "400 candy lane"
+        },
+        {
+            "id": 4,
+            " name": "candy land 4",
+            "location": "800 candy lane"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Joe"
+        },
+        {
+            "id": 2,
+            "name": "Brad"
+        },
+        {
+            "id": 3,
+            "name": "Jeff"
+        },
+        {
+            "id": 4,
+            "name": "Dean"
+        },
+        {
+            "id": 5,
+            "name": "Justin"
+        }
+    ],
+    "candyTypes": [
+        {
+            "id": 1,
+            "type": "bar"
+        },
+        {
+            "id": 2,
+            "type": "sucker"
+        },
+        {
+            "id": 3,
+            "type": "chewy"
+        },
+        {
+            "id": 4,
+            "type": "chocolate"
+        }
+    ],
+    "candies": [
+        {
+            "id": 1,
+            "name": "reeses",
+            "typeId": 4
+        },
+        {
+            "id": 2,
+            "name": "m&m's",
+            "typeId": 4
+        },
+        {
+            "id": 3,
+            "name": "gummy bears",
+            "typeId": 3
+        },
+        {
+            "id": 4,
+            "name": "dumb dumb",
+            "typeId": 2
+        },
+        {
+            "id": 5,
+            "name": "twix",
+            "typeId": 1
+        }
+    ]
+}

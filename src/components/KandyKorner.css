@@ -1,0 +1,5 @@
+.kandy-korner {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+}

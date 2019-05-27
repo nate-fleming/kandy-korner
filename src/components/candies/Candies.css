@@ -1,0 +1,34 @@
+.candies {
+    padding: 2%;
+    margin: 4%;
+    display: flex;
+    flex-flow: row wrap
+}
+
+.candy {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 4px solid black;
+    border-radius: 8px;
+    margin: 2% 4%;
+    padding: 2% 4%
+}
+
+.candy-icon {
+    align-self: center;
+    width: 100px;
+    height: 100px;
+}
+
+.candy-detail {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 4px solid black;
+    border-radius: 8px;
+    margin: 2% 40%;
+    padding: 2% 4%
+}
